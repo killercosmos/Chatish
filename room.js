@@ -1,4 +1,4 @@
-ar firebaseConfig = {
+var firebaseConfig = {
   apiKey: "AIzaSyB7QCIdKgHnDTjHM3cPIqG7VDgRG48qi2g",
   authDomain: "chatish-d21f5.firebaseapp.com",
   databaseURL: "https://chatish-d21f5-default-rtdb.firebaseio.com",
